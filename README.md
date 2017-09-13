@@ -1,8 +1,8 @@
-# TypeScript Library Starter Lite
+# TypeScript Library Starter Lite - Demo
 
-Stripped down version of TypeScript Library Starter: <https://github.com/alexjoverm/typescript-library-starter>
+Demo of stripped down version of TypeScript Library Starter: <https://github.com/alexjoverm/typescript-library-starter>
 
-[![Build Status](https://travis-ci.org/tonysneed/typescript-library-starter-lite.svg)](https://travis-ci.org/tonysneed/typescript-library-starter-lite)
+[![Build Status](https://travis-ci.org/tonysneed/ts-lib-starter-lite-demo.svg?branch=master)](https://travis-ci.org/tonysneed/ts-lib-starter-lite-demo)
 
 ### Differences
 
