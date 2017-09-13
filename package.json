@@ -1,9 +1,10 @@
 {
   "name": "ts-lib-starter-lite-demo",
-  "version": "0.0.0-development",
+  "version": "1.0.3",
   "description": "",
   "keywords": [],
-  "module": "dist/ts-lib-starter-lite-demo.js",
+  "main": "dist/ts-lib-starter-lite-demo.umd.js",
+  "module": "dist/ts-lib-starter-lite-demo.es2015.js",
   "typings": "dist/types/ts-lib-starter-lite-demo.d.ts",
   "files": [
     "dist"
