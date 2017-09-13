@@ -1,0 +1,3 @@
+﻿var typedoc = typedoc || {};
+            typedoc.search = typedoc.search || {};
+            typedoc.search.data = {"kinds":{"1":"External module","128":"Class","2048":"Method"},"rows":[{"id":0,"kind":1,"name":"\"dummy\"","url":"modules/_dummy_.html","classes":"tsd-kind-external-module"},{"id":1,"kind":128,"name":"Dummy","url":"classes/_dummy_.dummy.html","classes":"tsd-kind-class tsd-parent-kind-external-module","parent":"\"dummy\""},{"id":2,"kind":2048,"name":"getPerson","url":"classes/_dummy_.dummy.html#getperson","classes":"tsd-kind-method tsd-parent-kind-class","parent":"\"dummy\".Dummy"},{"id":3,"kind":1,"name":"\"ts-lib-starter-lite-demo\"","url":"modules/_ts_lib_starter_lite_demo_.html","classes":"tsd-kind-external-module"}]};
